@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 speezy
+Copyright (c) 2022 Lithuim 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,12 +33,17 @@ token = __config__["token"]
 os.system("cls") if os.name == "nt" else os.system("clear")
 
 x444_art = """
-                                          {}__ __  __ __  __ __
-                                    {}_  __/ // / / // / / // /
-                                   {}| |/_/ // /_/ // /_/ // /_
-                                  {}_>  </__  __/__  __/__  __/
-                                  {}/_/|_|  /_/    /_/    /_/{}
-                               *annihilating faggs is our weapon*
+                                       
+                  {} _      _____ _______ _    _ _    _ _____ __  __ 
+                  {}| |    |_   _|__   __| |  | | |  | |_   _|  \/  |
+                  {}| |      | |    | |  | |__| | |  | | | | | \  / |
+                  {}| |      | |    | |  |  __  | |  | | | | | |\/| |
+                  {}| |____ _| |_   | |  | |  | | |__| |_| |_| |  | |
+                  {}|______|_____|  |_|  |_|  |_|\____/|_____|_|  |_| {}
+                                                  
+                                                  
+   
+                                 *Hey.! skiders Lithuim papa on top*
                               ═══════════════════════════════════         
                          ═════════════════════════════════════════════
 """.format("\x1b[38;5;17m", "\x1b[38;5;18m", "\x1b[38;5;19m", "\x1b[38;5;20m", "\x1b[38;5;21m", "\x1b[0m")
